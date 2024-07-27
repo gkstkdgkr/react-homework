@@ -1,6 +1,6 @@
 # 리액트 과제입니다.
 
-제가 만든 컴포넌트는 이번 Vanilla Project때 사용한 Profile을 이용해 만들었습니다.
+제가 만든 컴포넌트는 이번 Vanilla Project때 사용한 Profile입니다.
 
 ![1123](https://github.com/user-attachments/assets/b349ac6f-b5ec-4beb-bc78-12a6a6d1e54e)
 ---
